@@ -7,6 +7,10 @@ This repository contains basic Python programs created as part of my Python Full
 ## Program List
 - reverse.py : Program to reverse a string entered by the user.
 - vowels_count.py : Program to count the number of vowels in a string.
+- palindrome_check.py : Program to check whether the string is palindrom or not
+- remove_space.py : Program to remove the space in the given string.
+- replace_vowels.py : Program to replace the vowels.
+- swap_character.py : Program to convert the lower case to upper case and visa versa.
 
 ## How to Run
 1. Open terminal
