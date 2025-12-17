@@ -11,6 +11,9 @@ This repository contains basic Python programs created as part of my Python Full
 - remove_space.py : Program to remove the space in the given string.
 - replace_vowels.py : Program to replace the vowels.
 - swap_character.py : Program to convert the lower case to upper case and visa versa.
+- duplicate_word.py : Program which removes duplicate words.
+- longest_word.py : Program used to find the longest word in a sentence.
+- reverse_word.py : Program used to reverse the words in the sentence.
 
 ## How to Run
 1. Open terminal
